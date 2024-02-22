@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "venuesh-nextjs-blog"
+  annotations:
+    github.com/project-slug: venuesh/venuesh-nextjs-blog
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: dev
+  owner: group:default/venue.sh
