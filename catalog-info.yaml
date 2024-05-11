@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: venuesh/venuesh-nextjs-blog
     backstage.io/techdocs-ref: dir:.
+    venue.sh/devcontainers-enabled: "true"
 spec:
   type: service
   lifecycle: dev
