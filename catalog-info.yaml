@@ -6,6 +6,7 @@ metadata:
     github.com/project-slug: venuesh/venuesh-nextjs-blog
     backstage.io/techdocs-ref: dir:.
     venue.sh/devcontainers-enabled: "true"
+    jira/project-key: VEND
 spec:
   type: service
   lifecycle: dev
