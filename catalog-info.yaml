@@ -10,7 +10,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     venue.sh/devcontainers-enabled: "true"
     jira/project-key: VEND
-    jenkins.io/job-full-name: "JenkinsPluginTester"
+    jenkins.io/job-full-name: "TesterTwo"
 spec:
   type: service
   lifecycle: dev
