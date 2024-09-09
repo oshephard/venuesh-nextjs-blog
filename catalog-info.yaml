@@ -11,7 +11,7 @@ metadata:
     venue.sh/devcontainers-enabled: "true"
     jira/project-key: VEND
     jenkins.io/job-full-name: "oshephard/TesterTwo"
-    vercel/project-id: prj_8C3GsttGuFaENGSUGff8WFqaNHto
+    vercel/project-id: prj_CkNqM0vXlF1Qdp91EF1vKPkkmVIQ
 spec:
   type: service
   lifecycle: dev
