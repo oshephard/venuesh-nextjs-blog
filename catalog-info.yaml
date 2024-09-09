@@ -16,4 +16,4 @@ metadata:
 spec:
   type: service
   lifecycle: dev
-  owner: group:default/venue.sh
+  owner: group:default/yohoho-plugins-galore
