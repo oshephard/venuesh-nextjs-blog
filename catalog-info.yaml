@@ -12,6 +12,7 @@ metadata:
     jira/project-key: VEND
     jenkins.io/job-full-name: "oshephard/TesterTwo"
     vercel/project-id: prj_pq5IoIXfqCWwyWp5RLllW3jpE2pQ
+    vercel/team-id: team_7Y33TdTsYjHwLzCdzwV86Dc7
 spec:
   type: service
   lifecycle: dev
